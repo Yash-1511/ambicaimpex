@@ -4671,6 +4671,8 @@ ul {
 
 .services-one__img img {
   width: 100%;
+  height: 300px;
+  object-fit: cover;
   -webkit-transform: scale(1);
   transform: scale(1);
   -webkit-transition: opacity 500ms ease, -webkit-transform 500ms ease;
